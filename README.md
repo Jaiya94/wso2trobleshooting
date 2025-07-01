@@ -1,3 +1,3 @@
 # wso2trobleshooting
 
-This repo includes samples used to trobleshoot WSO2 issues. 
+This repo includes samples used to troubleshoot WSO2 issues. 
